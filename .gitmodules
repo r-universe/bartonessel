@@ -5,3 +5,4 @@
 [submodule "pathlab"]
 	path = pathlab
 	url = https://github.com/bartonessel/pathlab
+	branch = main
