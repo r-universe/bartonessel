@@ -1,10 +1,9 @@
 {
   "id": 177324306,
   "created_at": "2026-10-31T20:49:14.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["bartonessel.r-universe.dev"]
+  }
 }
